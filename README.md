@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📊 Power BI Portfolio
+# Power BI Portfolio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=800&lines=Data+Analytics+Portfolio;Power+BI+%7C+DAX+%7C+SQL+Expert;Turning+Data+into+Insights;Open+to+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=217346&center=true&vCenter=true&width=800&lines=Data+Analytics+Portfolio;Power+BI+%7C+DAX+%7C+SQL+Expert;Turning+Data+into+Insights;Open+to+Opportunities!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=waleadafshal1&label=Portfolio%20Views&color=F2C811&style=for-the-badge" alt="portfolio views" />
 
