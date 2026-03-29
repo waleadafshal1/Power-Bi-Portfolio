@@ -159,12 +159,6 @@ Power BI | Advanced DAX | SQL Server | Excel
 <td align="center">
 <img src="https://img.shields.io/badge/Total_Projects-1-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Employees_Analyzed-7.5K+-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Dashboards-3+-success?style=for-the-badge" />
-</td>
 </tr>
 </table>
 
