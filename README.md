@@ -1,51 +1,413 @@
-#  Power BI Portfolio - Waleed Javed
+<div align="center">
 
-Welcome to my Power BI project showcase! Here you'll find data analytics dashboards and reports demonstrating my expertise in **Power BI**, **DAX**, **SQL**, and **business intelligence**.
+# 📊 Power BI Portfolio
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F2C811&center=true&vCenter=true&width=800&lines=Data+Analytics+Portfolio;Power+BI+%7C+DAX+%7C+SQL+Expert;Turning+Data+into+Insights;Open+to+Opportunities!)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=waleadafshal1&label=Portfolio%20Views&color=F2C811&style=for-the-badge" alt="portfolio views" />
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🚀 Transforming Data into Actionable Insights
+
+</div>
 
 ---
 
 ## 🎯 About Me
 
-**Data Analyst** with 1+ year experience specializing in:
-- Power BI Dashboard Development
-- DAX & Data Modeling
-- SQL Server Integration
-- Business Intelligence Solutions
+<table>
+<tr>
+<td width="60%">
 
-📧 **Contact:** waleadafshal8@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/waleed--javed](https://www.linkedin.com/in/waleed--javed)
+### 👨‍💼 Data Analyst | Power BI Specialist
+
+**Waleed Javed** - Passionate about transforming complex data into clear, actionable insights through interactive dashboards and advanced analytics.
+
+**🔹 Experience:** 1+ Year in Data Analytics  
+**🔹 Education:** BS Hons in AI - Islamia University of Bahawalpur  
+**🔹 Certification:** Google Data Analytics Professional  
+**🔹 Currently:** Preparing for Microsoft PL-300 Certification  
+
+</td>
+<td width="40%">
+
+### 💼 Core Expertise
+```yaml
+Technical Skills:
+  BI_Tools: [Power BI Desktop, Power BI Service]
+  Languages: [DAX, SQL, M Language]
+  Databases: [SQL Server, Excel]
+  Specialties:
+    - Dashboard Development
+    - Data Modeling (Star Schema)
+    - DAX Calculations
+    - Interactive Visualizations
+    - Business Intelligence
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📁 Featured Projects
+## 📂 Featured Projects
 
-### 1. 📊 [HR Analytics Dashboard](./HR-Analytics-Dashboard)
-**Description:** Comprehensive HR analytics solution tracking employee performance, satisfaction, turnover, and demographics.
+<div align="center">
 
-**Key Features:**
-- Performance rating analysis with custom DAX measures
-- Employee satisfaction tracking across departments
-- Turnover rate visualization by state/region
-- Interactive filters for department, age, education
+### 🏆 Project Showcase
 
-**Tech Stack:** Power BI | DAX | Excel  
-**Skills Demonstrated:** Data modeling, DAX calculations, interactive dashboards
+</div>
 
-**Preview:**
-![HR Dashboard](./HR-Analytics-Dashboard/screenshots/dashboard-1.png)
+<table>
+<tr>
+<td width="50%">
 
-[📁 View Project Details](./HR-Analytics-Dashboard)
+### 📊 1. HR Analytics Dashboard
 
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+Comprehensive HR analytics solution tracking employee performance, satisfaction, turnover, and demographics across 7,500 employees.
+
+**✨ Key Features:**
+- 📈 Performance rating analysis with custom DAX measures
+- 😊 Employee satisfaction tracking (5 categories)
+- 🗺️ Geographic turnover visualization (US map)
+- 🎛️ Interactive filters: department, age, education
+- 📊 Real-time KPI cards and trend analysis
+
+**🛠️ Tech Stack:**
+```
+Power BI | Advanced DAX | SQL Server | Excel
+```
+
+**📊 Metrics:**
+- **7,500** Employees Analyzed
+- **19.5%** Unrated Performance
+- **72%** Male Workforce
+- **Multiple** Department Breakdowns
+
+**🎨 Skills Demonstrated:**
+- ✅ Advanced DAX (SWITCH, CALCULATE, RELATED)
+- ✅ Star schema data modeling
+- ✅ Custom color coding by category
+- ✅ Map visualizations with tooltips
+- ✅ Interactive drill-through reports
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./HR-Analytics-Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./HR-Analytics-Dashboard/HR_Analytics.pbix)
+
+</div>
+
+</td>
+<td width="50%">
+
+### 💰 2. Sales Performance Dashboard
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Expert-purple?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+Real-time sales analytics dashboard tracking revenue, profit margins, and regional performance with predictive insights.
+
+**✨ Key Features:**
+- 📅 YoY/MoM growth tracking
+- 🏷️ Product category analysis
+- 🌍 Regional sales breakdown
+- 👥 Customer segmentation
+- 📈 Revenue trend forecasting
+
+**🛠️ Tech Stack:**
+```
+Power BI | Time Intelligence DAX | SQL | Python
+```
+
+**📊 Metrics:**
+- **Real-time** Revenue Tracking
+- **Multi-region** Analysis
+- **Product-level** Insights
+- **Customer** Segmentation
+
+**🎨 Skills Demonstrated:**
+- ✅ Time intelligence functions
+- ✅ KPI development
+- ✅ Drill-through capabilities
+- ✅ Custom tooltips
+- ✅ Parameter-based filtering
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Sales-Performance-Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./Sales-Performance-Dashboard/Sales_Dashboard.pbix)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔄 3. Employee Turnover Analysis
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Expert-purple?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+Predictive analytics dashboard for employee retention and turnover risk assessment with actionable insights.
+
+**✨ Key Features:**
+- 📉 Turnover rate trends over time
+- 🏢 Department-wise attrition analysis
+- ⚠️ Risk factor identification
+- 💡 Retention recommendations
+- 🎯 Predictive modeling integration
+
+**🛠️ Tech Stack:**
+```
+Power BI | Advanced DAX | Python | SQL
+```
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Employee-Turnover-Analysis)
+
+</div>
+
+</td>
+<td width="50%">
+
+### 📈 4. Coming Soon...
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
+
+</div>
+
+**🎯 Next Projects:**
+- 🏥 Healthcare Analytics Dashboard
+- 📦 Supply Chain Optimization
+- 💹 Financial Performance Tracker
+- 🎓 Education Metrics Dashboard
+
+**🔔 Stay tuned for more exciting projects!**
+
+<div align="center">
+
+[![Star This Repo](https://img.shields.io/badge/⭐_Star_This_Repo-gray?style=for-the-badge)](https://github.com/waleadafshal1/Power-Bi-Portfolio)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Skills & Technologies
+
+<div align="center">
+
+### 🛠️ Technical Arsenal
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 📊 BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+### 💻 Languages
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 Learning
+![Microsoft Fabric](https://img.shields.io/badge/Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Project Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Projects-3-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/DAX_Measures-50+-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Data_Rows-100K+-success?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Dashboards-15+-red?style=for-the-badge" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Certifications & Learning
+
+<div align="center">
+
+| 🏆 Certification | 🏢 Issuer | 📅 Status | 🔗 Link |
+|:---------------:|:---------:|:---------:|:-------:|
+| **Google Data Analytics Professional** | Coursera/Google | ✅ **Completed** | [View](https://coursera.org) |
+| **PL-300: Power BI Data Analyst** | Microsoft | 🔄 **In Progress** | [Info](https://learn.microsoft.com) |
+| **Microsoft Fabric Learning** | Microsoft | 📚 **Learning** | [Explore](https://learn.microsoft.com) |
+
+</div>
+
+---
+
+## 🌟 Why Choose My Dashboards?
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨 Beautiful Design
+Professional, clean, and visually appealing dashboards that tell a story
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ High Performance
+Optimized DAX queries and efficient data models for fast load times
+
+</td>
+<td align="center" width="25%">
+
+### 🔍 Deep Insights
+Advanced analytics that go beyond basic reporting
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Responsive
+Mobile-optimized views for on-the-go decision making
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ## 📫 Get In Touch
 
-I'm currently **open to opportunities** in Data Analytics and Business Intelligence!
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleadafshal8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed--javed)
+### 💼 Currently Open to Opportunities in Data Analytics & Business Intelligence
+
+<table>
+<tr>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleadafshal8@gmail.com)
+
+</td>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed--javed)
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleadafshal1)
+
+</td>
+</tr>
+</table>
+
+**📧 Email:** waleadafshal8@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/waleed--javed](https://www.linkedin.com/in/waleed--javed)  
+**📍 Location:** Lahore, Pakistan
+
+</div>
 
 ---
 
-## ⭐ If you find these projects helpful, please star this repository!
+## ⭐ Show Your Support
+
+<div align="center">
+
+### If you find these projects helpful, please consider:
+
+[![Star This Repository](https://img.shields.io/badge/⭐_Star_This_Repository-F2C811?style=for-the-badge&logo=github&logoColor=black)](https://github.com/waleadafshal1/Power-Bi-Portfolio)
+[![Fork This Repository](https://img.shields.io/badge/🔱_Fork_This_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleadafshal1/Power-Bi-Portfolio/fork)
+[![Share on LinkedIn](https://img.shields.io/badge/📢_Share_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/waleadafshal1/Power-Bi-Portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Data is the new oil, but insights are the new gold"
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F2C811&height=100&section=footer)
 
 **© 2024 Waleed Javed. All Rights Reserved.**
+
+**Made with ❤️ and Power BI**
+
+</div>
