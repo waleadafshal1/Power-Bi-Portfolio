@@ -40,10 +40,10 @@
 Technical Skills:
   BI_Tools: [Power BI Desktop, Power BI Service]
   Languages: [DAX, SQL, M Language]
-  Databases: [SQL Server, Excel]
+  Databases: [SQL Server]
   Specialties:
     - Dashboard Development
-    - Data Modeling (Star Schema)
+    - Data Modeling
     - DAX Calculations
     - Interactive Visualizations
     - Business Intelligence
@@ -65,9 +65,9 @@ Technical Skills:
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-### 📊 1. HR Analytics Dashboard
+### 📊 HR Analytics Dashboard
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Comprehensive HR analytics solution tracking employee performance, satisfaction,
 Power BI | Advanced DAX | SQL Server | Excel
 ```
 
-**📊 Metrics:**
+**📊 Key Metrics:**
 - **7,500** Employees Analyzed
 - **19.5%** Unrated Performance
 - **72%** Male Workforce
@@ -99,7 +99,7 @@ Power BI | Advanced DAX | SQL Server | Excel
 
 **🎨 Skills Demonstrated:**
 - ✅ Advanced DAX (SWITCH, CALCULATE, RELATED)
-- ✅ Star schema data modeling
+- ✅ Data modeling with relationships
 - ✅ Custom color coding by category
 - ✅ Map visualizations with tooltips
 - ✅ Interactive drill-through reports
@@ -108,118 +108,6 @@ Power BI | Advanced DAX | SQL Server | Excel
 
 [![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./HR-Analytics-Dashboard)
 [![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./HR-Analytics-Dashboard/HR_Analytics.pbix)
-
-</div>
-
-</td>
-<td width="50%">
-
-### 💰 2. Sales Performance Dashboard
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-![Complexity](https://img.shields.io/badge/Complexity-Expert-purple?style=for-the-badge)
-
-</div>
-
-**🎯 Overview:**  
-Real-time sales analytics dashboard tracking revenue, profit margins, and regional performance with predictive insights.
-
-**✨ Key Features:**
-- 📅 YoY/MoM growth tracking
-- 🏷️ Product category analysis
-- 🌍 Regional sales breakdown
-- 👥 Customer segmentation
-- 📈 Revenue trend forecasting
-
-**🛠️ Tech Stack:**
-```
-Power BI | Time Intelligence DAX | SQL | Python
-```
-
-**📊 Metrics:**
-- **Real-time** Revenue Tracking
-- **Multi-region** Analysis
-- **Product-level** Insights
-- **Customer** Segmentation
-
-**🎨 Skills Demonstrated:**
-- ✅ Time intelligence functions
-- ✅ KPI development
-- ✅ Drill-through capabilities
-- ✅ Custom tooltips
-- ✅ Parameter-based filtering
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Sales-Performance-Dashboard)
-[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./Sales-Performance-Dashboard/Sales_Dashboard.pbix)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔄 3. Employee Turnover Analysis
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
-![Complexity](https://img.shields.io/badge/Complexity-Expert-purple?style=for-the-badge)
-
-</div>
-
-**🎯 Overview:**  
-Predictive analytics dashboard for employee retention and turnover risk assessment with actionable insights.
-
-**✨ Key Features:**
-- 📉 Turnover rate trends over time
-- 🏢 Department-wise attrition analysis
-- ⚠️ Risk factor identification
-- 💡 Retention recommendations
-- 🎯 Predictive modeling integration
-
-**🛠️ Tech Stack:**
-```
-Power BI | Advanced DAX | Python | SQL
-```
-
-<div align="center">
-
-[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Employee-Turnover-Analysis)
-
-</div>
-
-</td>
-<td width="50%">
-
-### 📈 4. Coming Soon...
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge)
-
-</div>
-
-**🎯 Next Projects:**
-- 🏥 Healthcare Analytics Dashboard
-- 📦 Supply Chain Optimization
-- 💹 Financial Performance Tracker
-- 🎓 Education Metrics Dashboard
-
-**🔔 Stay tuned for more exciting projects!**
-
-<div align="center">
-
-[![Star This Repo](https://img.shields.io/badge/⭐_Star_This_Repo-gray?style=for-the-badge)](https://github.com/waleadafshal1/Power-Bi-Portfolio)
 
 </div>
 
@@ -252,15 +140,14 @@ Power BI | Advanced DAX | Python | SQL
 ### 💻 Languages
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![M Language](https://img.shields.io/badge/M_Language-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </td>
 <td align="center" width="25%">
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
 <td align="center" width="25%">
@@ -276,40 +163,23 @@ Power BI | Advanced DAX | Python | SQL
 
 ---
 
-## 📈 Project Statistics
+## 📈 Portfolio Statistics
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Total_Projects-3-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Total_Projects-1-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/DAX_Measures-50+-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Employees_Analyzed-7.5K+-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Data_Rows-100K+-success?style=for-the-badge" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Dashboards-15+-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboards-3+-success?style=for-the-badge" />
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎓 Certifications & Learning
-
-<div align="center">
-
-| 🏆 Certification | 🏢 Issuer | 📅 Status | 🔗 Link |
-|:---------------:|:---------:|:---------:|:-------:|
-| **Google Data Analytics Professional** | Coursera/Google | ✅ **Completed** | [View](https://coursera.org) |
-| **PL-300: Power BI Data Analyst** | Microsoft | 🔄 **In Progress** | [Info](https://learn.microsoft.com) |
-| **Microsoft Fabric Learning** | Microsoft | 📚 **Learning** | [Explore](https://learn.microsoft.com) |
 
 </div>
 
