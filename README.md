@@ -1,4 +1,4 @@
-# 📊 Power BI Portfolio - Waleed Javed
+#  Power BI Portfolio - Waleed Javed
 
 Welcome to my Power BI project showcase! Here you'll find data analytics dashboards and reports demonstrating my expertise in **Power BI**, **DAX**, **SQL**, and **business intelligence**.
 
