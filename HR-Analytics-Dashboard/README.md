@@ -4,7 +4,7 @@
 This interactive Power BI dashboard provides a comprehensive analysis of workforce demographics and employee performance. Designed for HR leadership, it enables data-driven decisions regarding recruitment, retention, and employee engagement by visualizing key metrics across various dimensions like department, job level, and geography.
 
 ## Dashboard Link
-[View Interactive Dashboard Here]([https://app.powerbi.com/links/Iyn7fWg9WT?ctid=733ebfdf-2ed0-4b53-b651-bece4730a970&pbi_source=linkShare])
+[View Interactive Dashboard Here](https://app.powerbi.com/links/Iyn7fWg9WT?ctid=733ebfdf-2ed0-4b53-b651-bece4730a970&pbi_source=linkShare)
 
 ## Tools and Technologies
 * **Power BI Desktop**: For data modeling and visualization.
