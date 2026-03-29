@@ -67,7 +67,7 @@ Technical Skills:
 <tr>
 <td width="100%">
 
-### 📊 HR Analytics Dashboard
+### HR Analytics Dashboard
 
 <div align="center">
 
@@ -104,7 +104,7 @@ Power BI | Advanced DAX | SQL Server | Excel
 
 ---
 
-## 📊 Skills & Technologies
+## Skills & Technologies
 
 <div align="center">
 
@@ -116,10 +116,9 @@ Power BI | Advanced DAX | SQL Server | Excel
 <tr>
 <td align="center" width="25%">
 
-### 📊 BI Tools
+### BI Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 </td>
 <td align="center" width="25%">
@@ -257,8 +256,6 @@ Mobile-optimized views for on-the-go decision making
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F2C811&height=100&section=footer)
 
-**© 2024 Waleed Javed. All Rights Reserved.**
-
-**Made with ❤️ and Power BI**
+**© 2026 Waleed Javed. All Rights Reserved.**
 
 </div>
