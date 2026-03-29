@@ -48,5 +48,5 @@ The dataset includes anonymized employee records covering:
 ![Performance Dashboard](screenshots/Hr_Project_(1)_page-0002[1].jpg)
 
 ---
-Developed by Waleed Javed 
+Developed by Waleed Javed         
 Special Thanks :Zefas Bi and Analytics
