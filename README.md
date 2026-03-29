@@ -91,19 +91,6 @@ Comprehensive HR analytics solution tracking employee performance, satisfaction,
 Power BI | Advanced DAX | SQL Server | Excel
 ```
 
-**📊 Key Metrics:**
-- **7,500** Employees Analyzed
-- **19.5%** Unrated Performance
-- **72%** Male Workforce
-- **Multiple** Department Breakdowns
-
-**🎨 Skills Demonstrated:**
-- ✅ Advanced DAX (SWITCH, CALCULATE, RELATED)
-- ✅ Data modeling with relationships
-- ✅ Custom color coding by category
-- ✅ Map visualizations with tooltips
-- ✅ Interactive drill-through reports
-
 <div align="center">
 
 [![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./HR-Analytics-Dashboard)
