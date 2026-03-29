@@ -45,7 +45,7 @@ The dataset includes anonymized employee records covering:
 ![HR-Analytics-Dashboard/screenshots/Hr_Project_(1)_page-0001[1].jpg])
 
 ### Page 2: Performance & Engagement
-![Performance Dashboard]([IMAGE_PATH_TO_YOUR_PAGE_2_IMAGE])
+![HR-Analytics-Dashboard/screenshots/Hr_Project_(1)_page-0002[1].jpg])
 
 ---
 Developed by [Your Name]
