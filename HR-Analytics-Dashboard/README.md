@@ -42,7 +42,7 @@ The dataset includes anonymized employee records covering:
 ## Dashboard Images
 
 ### Page 1: Demographics Overview
-![Demographics Dashboard]([IMAGE_PATH_TO_YOUR_PAGE_1_IMAGE])
+![HR-Analytics-Dashboard/screenshots/Hr_Project_(1)_page-0001[1].jpg])
 
 ### Page 2: Performance & Engagement
 ![Performance Dashboard]([IMAGE_PATH_TO_YOUR_PAGE_2_IMAGE])
