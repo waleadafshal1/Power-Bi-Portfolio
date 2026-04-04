@@ -54,10 +54,10 @@ The dataset includes social media post records covering:
 ## Dashboard Images
 
 ### Page 1: Executive Summary
-(![Executive Summary](screenshots/Social%20Media%20Dashbaord%20(3)_page-0001.jpg))
+![Executive Summary](screenshots/Social%20Media%20Dashbaord%20(3)_page-0001.jpg)
 
 ### Page 2: Temporal & Geo Performance
-(![Temporal & Geo Performance](screenshots/Social%20Media%20Dashbaord%20(3)_page-0002.jpg)g)
+![Temporal & Geo Performance](screenshots/Social%20Media%20Dashbaord%20(3)_page-0002.jpg)
 
 ---
 Developed by Waleed Javed
