@@ -100,6 +100,48 @@ Power BI | Advanced DAX | SQL Server | Excel
 
 </td>
 </tr>
+
+<tr>
+<td width="100%">
+
+### Social Media Performance Analysis Dashboard
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+End-to-end social media analytics solution covering 5,600 posts across 6 platforms (Facebook, TikTok, Instagram, YouTube, LinkedIn, X.com), delivering insights on engagement, content performance, hashtag effectiveness, and geographic reach.
+
+**✨ Key Features:**
+- 📊 Executive KPI summary: 646.5M engagements, 4.8bn views, 844M likes, 267M shares
+- 🌍 Geographic engagement map with regional breakdown (USA, Japan, Brazil, UK, Canada & more)
+- 📹 Post-type share analysis — Video dominates at 75.5% of total shares
+- 📅 Month-over-month engagement trend chart (Jan 2024 – May 2025)
+- #️⃣ Hashtag performance analysis: clicks & engagement by hashtag (#CustomerStory, #ProductDemo, etc.)
+- 🏆 Platform comparison: YouTube & TikTok lead with 197M and 195M total likes respectively
+- 📋 Content category breakdown by platform (Customer Story, Educational, Entertainment, etc.)
+- 🔍 Top-performing posts detail table with ER% and CTR% metrics
+- 🎛️ Interactive filters: Engagement Level, Post Type, Content Type (Organic / Sponsored)
+- 🗺️ Azure Maps integration for geo-level engagement visualization
+
+**🛠️ Tech Stack:**
+```
+Power BI | Advanced DAX | Microsoft Azure Maps | Excel
+```
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Social-Media-Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./Social-Media-Dashboard/Social_Media_Dashboard.pbix)
+
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -156,7 +198,7 @@ Power BI | Advanced DAX | SQL Server | Excel
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Total_Projects-1-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Total_Projects-2-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </td>
 </tr>
 </table>
