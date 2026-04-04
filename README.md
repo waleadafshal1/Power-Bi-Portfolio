@@ -135,8 +135,8 @@ Power BI | Advanced DAX | Microsoft Azure Maps | Excel
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Social-Media-Dashboard)
-[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./Social-Media-Dashboard/Social_Media_Dashboard.pbix)
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Social%20Media%20Analysis%20Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./Social%20Media%20Analysis%20Dashboard/Social%20Media%20Dashbaord.pbix)
 
 </div>
 
