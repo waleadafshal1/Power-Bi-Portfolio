@@ -94,7 +94,7 @@ Power BI | Advanced DAX | SQL Server | Excel
 <div align="center">
 
 [![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./HR-Analytics-Dashboard)
-[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./HR-Analytics-Dashboard/HR_Analytics.pbix)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./HR-Analytics-Dashboard/Hr%20Project.pbix)
 
 </div>
 
