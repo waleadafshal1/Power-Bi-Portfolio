@@ -5,7 +5,7 @@
 This interactive Power BI dashboard provides a comprehensive analysis of social media performance across 6 major platforms. Designed for marketing teams and social media managers, it enables data-driven decisions regarding content strategy, platform investment, and audience engagement by visualizing key metrics across post types, hashtags, geographies, and time periods.
 
 ## Dashboard Link
-[[View Interactive Dashboard Here](https://app.powerbi.com/links/WDSDSQozQj?ctid=733ebfdf-2ed0-4b53-b651-bece4730a970&pbi_source=linkShare)](#) <!-- Replace with your Power BI publish link -->
+[[View Interactive Dashboard Here](https://app.powerbi.com/links/WDSDSQozQj?ctid=733ebfdf-2ed0-4b53-b651-bece4730a970&pbi_source=linkShare)] <!-- Replace with your Power BI publish link -->
 
 ## Tools and Technologies
 * **Power BI Desktop**: For data modeling and visualization.
@@ -54,10 +54,10 @@ The dataset includes social media post records covering:
 ## Dashboard Images
 
 ### Page 1: Executive Summary
-![Executive Summary](Social Media Analysis Dashboard/screenshots/Social Media Dashbaord (3)_page-0001.jpg)
+(![Executive Summary](screenshots/Social%20Media%20Dashbaord%20(3)_page-0001.jpg))
 
 ### Page 2: Temporal & Geo Performance
-![Temporal & Geo Performance](Social Media Analysis Dashboard/screenshots/Social Media Dashbaord (3)_page-0002.jpg)
+(![Temporal & Geo Performance](screenshots/Social%20Media%20Dashbaord%20(3)_page-0002.jpg)g)
 
 ---
 Developed by Waleed Javed
