@@ -1,6 +1,352 @@
 <div align="center">
 
+# Power BI Portfolio<div align="center">
+
 # Power BI Portfolio
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=217346&center=true&vCenter=true&width=800&lines=Data+Analytics+Portfolio;Power+BI+%7C+DAX+%7C+SQL+Expert;Turning+Data+into+Insights;Open+to+Opportunities!)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=waleadafshal1&label=Portfolio%20Views&color=F2C811&style=for-the-badge" alt="portfolio views" />
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🚀 Transforming Data into Actionable Insights
+
+</div>
+
+---
+
+## 🎯 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💼 Data Analyst | Power BI Specialist
+
+**Waleed Javed** - Passionate about transforming complex data into clear, actionable insights through interactive dashboards and advanced analytics.
+
+**🔹 Experience:** 1+ Year in Data Analytics  
+**🔹 Education:** BS Hons in AI - Islamia University of Bahawalpur  
+**🔹 Certification:** Google Data Analytics Professional  
+**🔹 Currently:** Preparing for Microsoft PL-300 Certification  
+
+</td>
+<td width="40%">
+
+### 💼 Core Expertise
+```yaml
+Technical Skills:
+  BI_Tools: [Power BI Desktop, Power BI Service]
+  Languages: [DAX, SQL, M Language]
+  Databases: [SQL Server]
+  Specialties:
+    - Dashboard Development
+    - Data Modeling
+    - DAX Calculations
+    - Interactive Visualizations
+    - Business Intelligence
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+<div align="center">
+
+### 🏆 Project Showcase
+
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+### HR Analytics Dashboard
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+Comprehensive HR analytics solution tracking employee performance, satisfaction, turnover, and demographics across 7,500 employees.
+
+**✨ Key Features:**
+- 📈 Performance rating analysis with custom DAX measures
+- 😊 Employee satisfaction tracking (5 categories)
+- 🗺️ Geographic turnover visualization (US map)
+- 🎛️ Interactive filters: department, age, education
+- 📊 Real-time KPI cards and trend analysis
+
+**🛠️ Tech Stack:**
+```
+Power BI | Advanced DAX | SQL Server | Excel
+```
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./HR-Analytics-Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./HR-Analytics-Dashboard/Hr%20Project.pbix)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+### Social Media Performance Analysis Dashboard
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+End-to-end social media analytics solution covering 5,600 posts across 6 platforms (Facebook, TikTok, Instagram, YouTube, LinkedIn, X.com), delivering insights on engagement, content performance, hashtag effectiveness, and geographic reach.
+
+**✨ Key Features:**
+- 📊 Executive KPI summary: 646.5M engagements, 4.8bn views, 844M likes, 267M shares
+- 🌍 Geographic engagement map with regional breakdown (USA, Japan, Brazil, UK, Canada & more)
+- 📹 Post-type share analysis — Video dominates at 75.5% of total shares
+- 📅 Month-over-month engagement trend chart (Jan 2024 – May 2025)
+- #️⃣ Hashtag performance analysis: clicks & engagement by hashtag (#CustomerStory, #ProductDemo, etc.)
+- 🏆 Platform comparison: YouTube & TikTok lead with 197M and 195M total likes respectively
+- 📋 Content category breakdown by platform (Customer Story, Educational, Entertainment, etc.)
+- 🔍 Top-performing posts detail table with ER% and CTR% metrics
+- 🎛️ Interactive filters: Engagement Level, Post Type, Content Type (Organic / Sponsored)
+- 🗺️ Azure Maps integration for geo-level engagement visualization
+
+**🛠️ Tech Stack:**
+```
+Power BI | Advanced DAX | Microsoft Azure Maps | Excel
+```
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./Social%20Media%20Analysis%20Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./Social%20Media%20Analysis%20Dashboard/Social%20Media%20Dashbaord.pbix)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+### EuroState Property Dashboard
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
+![Complexity](https://img.shields.io/badge/Complexity-Advanced-red?style=for-the-badge)
+
+</div>
+
+**🎯 Overview:**  
+A comprehensive European real estate analytics solution covering 5,000 properties across 10 countries, delivering insights on pricing, energy efficiency, amenities impact, market trends, and rental vs. sale performance across the continent.
+
+**✨ Key Features:**
+- 🏠 Executive KPI summary: 5,000 properties — 2,045 rentals (40.9%) & 2,955 for sale (59.1%)
+- 📅 Year-over-year market growth trend chart (2020 – 2024) split by listing type
+- 🌍 Country-level breakdown across 10 nations: France, Germany, Netherlands, Spain, Italy, Austria, Portugal, Poland, Czech Republic & Belgium
+- 🏢 Property type analysis: Apartments, Villas, Offices, Retail, Townhouses, Mixed-Use & Warehouses
+- ⚡ Energy rating analysis (A–G) with price comparison — Rating B commands the highest avg. price at €322K
+- 💰 Amenities impact: Properties with Parking Facility priced 62.69% higher; elevator adds 27.18%
+- 📐 Price per sqm by country: France leads at €5.1K/sqm, followed by Netherlands at €4.5K/sqm
+- 🛏️ Sale price vs. bedrooms: 6-bedroom properties average €0.48M
+- ⏱️ Avg. Days on Marketing: 163 days (Median: 156) with DOM breakdown by energy rating & listing type
+- 🛋️ Market composition by furnishing status: Furnished, Semi-Furnished, Unfurnished & Unknown
+- 🔍 Detailed property-level table with filters by country, amenity, energy rating & furnishing
+- 🎛️ Interactive filters: Listing Year, Listing Type, Country, Amenities Status
+
+**🛠️ Tech Stack:**
+```
+Power BI | Advanced DAX | Excel
+```
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/📁_View_Details-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./EuroState-Property-Dashboard)
+[![Download](https://img.shields.io/badge/⬇️_Download_.pbix-0078D4?style=for-the-badge)](./EuroState-Property-Dashboard/EuroState%20Property%20Dashboard.pbix)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Skills & Technologies
+
+<div align="center">
+
+### 🛠️ Technical Arsenal
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+
+</td>
+<td align="center" width="25%">
+
+### 💻 Languages
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![M Language](https://img.shields.io/badge/M_Language-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+### 🌐 Learning
+![Microsoft Fabric](https://img.shields.io/badge/Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Portfolio Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Projects-3-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌟 Why Choose My Dashboards?
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎨 Beautiful Design
+Professional, clean, and visually appealing dashboards that tell a story
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ High Performance
+Optimized DAX queries and efficient data models for fast load times
+
+</td>
+<td align="center" width="25%">
+
+### 🔍 Deep Insights
+Advanced analytics that go beyond basic reporting
+
+</td>
+<td align="center" width="25%">
+
+### 📱 Responsive
+Mobile-optimized views for on-the-go decision making
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+### 💼 Currently Open to Opportunities in Data Analytics & Business Intelligence
+
+<table>
+<tr>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleadafshal8@gmail.com)
+
+</td>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waleed--javed)
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleadafshal1)
+
+</td>
+</tr>
+</table>
+
+**📧 Email:** waleadafshal8@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/waleed--javed](https://www.linkedin.com/in/waleed--javed)  
+**📍 Location:** Lahore, Pakistan
+
+</div>
+
+---
+
+## ⭐ Show Your Support
+
+<div align="center">
+
+### If you find these projects helpful, please consider:
+
+[![Star This Repository](https://img.shields.io/badge/⭐_Star_This_Repository-F2C811?style=for-the-badge&logo=github&logoColor=black)](https://github.com/waleadafshal1/Power-Bi-Portfolio)
+[![Fork This Repository](https://img.shields.io/badge/🔱_Fork_This_Repository-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waleadafshal1/Power-Bi-Portfolio/fork)
+[![Share on LinkedIn](https://img.shields.io/badge/📢_Share_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/waleadafshal1/Power-Bi-Portfolio)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Data is the new oil, but insights are the new gold"
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F2C811&height=100&section=footer)
+
+**© 2026 Waleed Javed. All Rights Reserved.**
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=217346&center=true&vCenter=true&width=800&lines=Data+Analytics+Portfolio;Power+BI+%7C+DAX+%7C+SQL+Expert;Turning+Data+into+Insights;Open+to+Opportunities!)](https://git.io/typing-svg)
 
